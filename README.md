@@ -6,7 +6,7 @@ A nodejs service that would get data from an movie API and send it to a database
 
 Clone the repository
 
-  *run npm i
-  *run npm start
+  `run npm i`
+  `run npm start`
 
 The application will be runing on https://localhost:3030
