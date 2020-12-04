@@ -1,0 +1,20 @@
+{
+  "name": "movieapi",
+  "version": "1.0.0",
+  "description": "Get data from frontend and send it to the sql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {},
+  "author": "Leonardo Oliveira",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/leooliv/movie-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "moviedb-promise": "^3.1.2",
+    "mysql": "^2.18.1"
+  }
+}
